@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="commons-validator:commons-validator:1.4.0" type="repository">
+    <properties maven-id="commons-validator:commons-validator:1.4.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/commons-validator/commons-validator/1.4.0/commons-validator-1.4.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-beanutils/commons-beanutils/1.8.3/commons-beanutils-1.8.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-digester/commons-digester/1.8/commons-digester-1.8.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

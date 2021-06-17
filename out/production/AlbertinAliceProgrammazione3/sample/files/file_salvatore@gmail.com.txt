@@ -1,0 +1,5 @@
+{"idMittente":"sandra@gmail.com","idDestinatari":["salvatore@gmail.com"],"argomento":"ciao salvo","testo":"ciaooooo","dataSpedizione":"2021/06/14 08:14:38"}
+{"idMittente":"salvatore@gmail.com","idDestinatari":["sandra@gmail.com"],"argomento":"ciao salvo","testo":"ciaooooo; ciaoooo anche a te","dataSpedizione":"2021/06/14 08:14:58"}
+{"idMittente":"salvatore@gmail.com","idDestinatari":["aurora@gmail.com"],"argomento":"ciao salvo","testo":"(salvatore@gmail.com) ciaooooo; ciaoooo anche a te","dataSpedizione":"2021/06/14 08:15:18"}
+{"idMittente":"mimmo@gmail.com","idDestinatari":["salvatore@gmail.com","aurora@gmail.com"],"argomento":"ciao a tutti ","testo":"ccc","dataSpedizione":"2021/06/14 09:08:04"}
+{"idMittente":"aurora@gmail.com","idDestinatari":["salvatore@gmail.com","mimmo@gmail.com"],"argomento":"ciao a tutti ","testo":"ccc; cicicicici","dataSpedizione":"2021/06/14 09:09:02"}

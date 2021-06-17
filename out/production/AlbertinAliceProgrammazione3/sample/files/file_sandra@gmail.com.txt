@@ -1,0 +1,2 @@
+{"idMittente":"sandra@gmail.com","idDestinatari":["salvatore@gmail.com"],"argomento":"ciao salvo","testo":"ciaooooo","dataSpedizione":"2021/06/14 08:14:38"}
+{"idMittente":"salvatore@gmail.com","idDestinatari":["sandra@gmail.com"],"argomento":"ciao salvo","testo":"ciaooooo; ciaoooo anche a te","dataSpedizione":"2021/06/14 08:14:58"}

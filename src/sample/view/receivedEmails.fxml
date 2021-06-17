@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<?import javafx.geometry.Insets?>
+<AnchorPane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml" fx:controller="sample.ControllerMain">
+    <children>
+        <ScrollPane minWidth="550" maxWidth="550" minHeight="600" maxHeight="600" fitToWidth="false" fitToHeight="false">
+            <content>
+                <GridPane fx:id="gridPaneEmail" vgap="10" hgap="10">
+                    <padding>
+                        <Insets top="10" bottom="10" left="10" right="10"/>
+                    </padding>
+                    <children>
+
+                    </children>
+                </GridPane>
+            </content>
+        </ScrollPane>
+    </children>
+</AnchorPane>

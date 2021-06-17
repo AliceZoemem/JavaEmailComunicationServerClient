@@ -1,0 +1,15 @@
+<?import javafx.scene.layout.GridPane?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.text.Text?>
+<GridPane fx:controller="sample.ControllerLogin"
+          xmlns:fx="http://javafx.com/fxml" alignment="center" hgap="10" vgap="10">
+
+    <Label GridPane.columnIndex="1" text="Email" />
+    <TextField fx:id="email" GridPane.columnIndex="2"/>
+    <Text fx:id="errorText" GridPane.rowIndex="2" GridPane.columnIndex="2"></Text>
+    <Button fx:id="btnAccedi" text="Accedi" onAction="#login" GridPane.rowIndex="3" GridPane.columnIndex="2"></Button>
+</GridPane>

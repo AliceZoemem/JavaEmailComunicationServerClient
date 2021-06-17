@@ -1,0 +1,8 @@
+<?import javafx.scene.layout.BorderPane?>
+<BorderPane xmlns:fx="http://javafx.com/fxml" fx:controller="sample.ControllerMain">
+    <left>
+       <fx:include source="leftMenu.fxml"/>
+    </left>
+    <center>
+    </center>
+</BorderPane>

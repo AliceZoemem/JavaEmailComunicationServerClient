@@ -1,0 +1,6 @@
+{"idMittente":"mimmo@gmail.com","idDestinatari":["sara@gmail.com"],"argomento":"s","testo":"sf","dataSpedizione":"2021/06/07 14:08:29"}
+{"idMittente":"mimmo@gmail.com","idDestinatari":["sandra@gm.com","sara@gmail.com"],"argomento":"ciao","testo":"(sandra@gmail.com) ciao","dataSpedizione":"2021/06/12 09:54:25"}
+{"idMittente":"mimmo@gmail.com","idDestinatari":["sara@gmail.com"],"argomento":"buon compleanno","testo":"hb","dataSpedizione":"2021/06/12 17:36:58"}
+{"idMittente":"mimmo@gmail.com","idDestinatari":["sara@gmail.com"],"argomento":"ss","testo":"(mimmo@gmail.com) ss","dataSpedizione":"2021/06/12 17:41:36"}
+{"idMittente":"mimmo@gmail.com","idDestinatari":["sara@gmail.com","sandra@gmail.com","sandra@gm.com"],"argomento":"ciao girls","testo":"ss","dataSpedizione":"2021/06/12 17:42:17"}
+{"idMittente":"mimmo@gmail.com","idDestinatari":["sara@gmail.com","sandra@gmail.com","sandra@gm.com"],"argomento":"ciao girls","testo":"ssasfas","dataSpedizione":"2021/06/12 17:42:40"}
